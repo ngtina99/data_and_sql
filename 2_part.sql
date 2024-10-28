@@ -24,4 +24,17 @@ from part;
 select * from project;
 
 select * from project
-where city = 'london'
+where city = 'london';
+
+SELECT p.pname, p.weight
+FROM
+    part AS p
+WHERE
+    p.colour = 'red';
+
+SELECT
+    DISTINCT s.sname
+FROM
+    supplier s
+WHERE
+    s.city = 'london';
