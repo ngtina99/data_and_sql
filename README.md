@@ -3,6 +3,8 @@
 This repository contains all the exercises and practice files from my **starter SQL course**, followed by my **final project: DataCinema**.  
 The course covered the fundamentals of relational databases and SQL, building up step-by-step from basic queries to full database design.
 
+![DataCinema Diagram](datacinema_diagram.png)
+
 ---
 
 ## 🔹 What I Learned in This SQL Course
